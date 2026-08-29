@@ -1,7 +1,7 @@
 # 🐕‍🦺 PrivGuard — Windows Privacy & Telemetry Control
 
 <p align="center">
-  <img src="assets/logo_wordmark.png" alt="PrivGuard - Windows Privacy & Telemetry Control" width="560"/>
+  <img src="assets/logo.png" alt="PrivGuard logo" width="180"/>
 </p>
 
 <p align="center">
