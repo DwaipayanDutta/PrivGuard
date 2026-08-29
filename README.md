@@ -158,7 +158,7 @@ Classification is a best-effort hostname match, not proof of ownership — rever
 ## 🛠️ Development
 
 ```bash
-git clone https://github.com/<you>/PrivGuard.git
+git clone https://github.com/DwaipayanDutta/PrivGuard.git
 cd PrivGuard
 ```
 
