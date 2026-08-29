@@ -11,10 +11,29 @@
 </p>
 
 > No third-party software. No firewall blocking. Just documented Windows policies, applied and reversed cleanly.
+PrivGuard is a Windows 10/11 privacy and telemetry control tool designed to reduce unnecessary data collection and give users greater visibility and control over their system.
 
-PrivGuard reduces what Windows 10/11 sends to Microsoft using only settings Microsoft itself documents and supports — Group Policy–style registry values, scheduled tasks, and services. Every change it makes is backed up first and can be undone with one command.
+It uses built-in Windows mechanisms and Microsoft-documented configuration policies—including Group Policy–style registry settings, scheduled tasks, and Windows services—without relying on third-party software.
 
-Named after the dog on the logo: a Doberman, because that's what this tool is — a guard dog for your system's privacy settings, not a battering ram.
+Every change PrivGuard makes is backed up before modification, logged, and can be rolled back to the previous configuration. Nothing is intended to be irreversible.
+
+PrivGuard also includes a Monitor mode, allowing users to inspect Windows processes and outbound connections before deciding what they want to change.
+
+## The Philosophy
+
+PrivGuard doesn't claim to make Windows completely private. No tool operating at the Windows software layer can make that guarantee.
+
+Instead, the principle is simple:
+
+Know what your system is doing. Control what you can. Keep the ability to undo it.
+
+PrivGuard is a guard dog, not a battering ram.
+
+The name comes from the Doberman on the logo—a watchdog built to protect, observe, and respond when necessary, rather than blindly tear everything down.
+
+PrivGuard — Observe. Control. Restore.
+
+
 
 ---
 
